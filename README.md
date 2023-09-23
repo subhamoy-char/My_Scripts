@@ -7,4 +7,4 @@ lammps-average.sh -------> Make average among columns for a file
 lammps.py ------> Charge incorporation for USPEX readable POSCAR file
 run.sh ----> Small script to make operations in loop
 trashfiles.sh -----> Delete unnecessary files in VASP calculations
-rdf.py --------> separate NPT-XDATCAR file among indivitual poscar files of each time step
+separate-type1.py/separate-type2.py --------> separate NPT-XDATCAR file among indivitual poscar files of each time step
