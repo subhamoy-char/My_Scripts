@@ -8,3 +8,4 @@ lammps.py ------> Charge incorporation for USPEX readable POSCAR file
 run.sh ----> Small script to make operations in loop
 trashfiles.sh -----> Delete unnecessary files in VASP calculations
 separate-type1.py/separate-type2.py --------> separate NPT-XDATCAR file among indivitual poscar files of each time step
+charge_neutral_cluster_finder.py --------> Extract charge neutral configurations from ATAT
