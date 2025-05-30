@@ -1,4 +1,0 @@
-#!/bin/bash
-rm WAVECAR CHG CONTCAR-* OSZICAR-* STDOUT-* OUTCAR-* EIGENVAL IBZKPT PCDAT XDATCAR
-echo "VASP trash cleaned"
-#
